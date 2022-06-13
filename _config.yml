@@ -1,11 +1,9 @@
-title: Webex Contact Center Lab Repository
+title: LTRCCT-2013 Dip into NEW Digital Channels for Contact Center
 description: © 2022 Webex CC Lab repository, All right reserved.
 author:
   name: Lab Support Email
-  email: 'wxcclabs@cisco.com'
+  email: "wxcclabs@cisco.com"
 remote_theme: jekyll/minima
 
 minima:
   skin: dark
-
-  
